@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-15T16:08:07.769Z",
+  "updated": "2026-11-16T00:16:56.104Z",
   "abt": {},
   "otax": {},
   "robotone": {},
@@ -76,5 +76,11 @@
   "arcov": {},
   "vokra": {},
   "astra": {},
-  "modaw": {}
+  "modaw": {
+    "1ea4bc82d6cd3677ba948e937ad280b36a88498b373cc5602d7af649c090da8c": {
+      "a": true
+    }
+  },
+  "valvox": {},
+  "t36": {}
 }
