@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-18T22:42:23.921Z",
+  "updated": "2026-11-20T00:33:40.349Z",
   "abt": {},
   "otax": {},
   "robotone": {},
@@ -81,7 +81,11 @@
   "echoorbit": {},
   "spaceall": {},
   "arcov": {},
-  "vokra": {},
+  "vokra": {
+    "39c7d2cd833b04c73af76b6d8f0ce851e0becfe814620d5bbf89eb1c8bc06194": {
+      "a": true
+    }
+  },
   "astra": {},
   "modaw": {
     "1ea4bc82d6cd3677ba948e937ad280b36a88498b373cc5602d7af649c090da8c": {
