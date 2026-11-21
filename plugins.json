@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-21T00:46:00.926Z",
+  "updated": "2026-11-21T22:22:41.989Z",
   "abt": {},
   "otax": {},
   "robotone": {},
@@ -90,7 +90,11 @@
       "a": true
     }
   },
-  "astra": {},
+  "astra": {
+    "faef256ef147d24c4cf8e513120142052a6d5155b3d7989556f47c33d71a9955": {
+      "a": true
+    }
+  },
   "modaw": {
     "1ea4bc82d6cd3677ba948e937ad280b36a88498b373cc5602d7af649c090da8c": {
       "a": true
