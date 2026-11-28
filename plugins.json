@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-28T17:37:01.090Z",
+  "updated": "2026-11-28T17:37:05.696Z",
   "abt": {},
   "otax": {},
   "robotone": {},
@@ -145,7 +145,11 @@
       "a": true
     }
   },
-  "sigcrown": {},
+  "sigcrown": {
+    "68f7ce9d8e512a5e1ab8f67b99f9e5792cda55d018a41265d0db4882b3fa6e15": {
+      "a": true
+    }
+  },
   "sigbeat": {},
   "sigearth": {},
   "sigclave": {},
