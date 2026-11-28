@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-28T17:37:14.744Z",
+  "updated": "2026-11-28T17:37:18.982Z",
   "abt": {},
   "otax": {},
   "robotone": {},
@@ -165,8 +165,16 @@
       "a": true
     }
   },
-  "siggroove": {},
-  "sigdisco": {},
+  "siggroove": {
+    "d1558345e5b7d26e12027f9c8a060bc877e93a6161e7f163745a52afa935e948": {
+      "a": true
+    }
+  },
+  "sigdisco": {
+    "0c0a6b57a1493bdb871e18475771109c5c79e18b7ba7f4c3042ac1095caf6a34": {
+      "a": true
+    }
+  },
   "sigshine": {},
   "sigwave": {}
 }
